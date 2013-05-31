@@ -1,0 +1,21 @@
+settings = 
+{
+	orientation = 
+	{
+		default = "landscapeRight",
+      --  content = "landscapeRight",
+		supported = 
+		{ 
+			"landscapeRight", "landscapeLeft" --, "portrait" 
+		}
+	},
+	
+	iphone = 
+	{
+		plist = 
+		{
+			CFBundleDisplayName = "GGStick",
+			UIApplicationExitsOnSuspend = false
+		}
+	},
+}

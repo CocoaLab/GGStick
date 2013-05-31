@@ -3,6 +3,7 @@ GGStick
 
 GGStick is an easy to use virtual thumb-stick module for Corona SDK powered games. You can have as many as you like all playing nicely together.
 
+Check out the sample main.lua file for a very basic twin stick shooter.
 
 Basic Usage
 -------------------------
